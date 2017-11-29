@@ -2,7 +2,7 @@
 
 This code implements a training in TensorFlow for noisy data by utilizing a linear noise layer which is proposed in [Training Convolutional Networks with Noisy Labels](https://arxiv.org/abs/1406.2080). 
 
-AlexNet implementation and the model is directly taken from http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/ and some modifications are done on this code. Moreover, in order to feed the train and validation batches, "datagenerator.py" is taken from this [repo](https://github.com/kratzert/finetune_alexnet_with_tensorflow).
+AlexNet implementation and the model is directly taken from http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/ and some modifications are done on this code. Moreover, in order to feed the train and validation batches, "datagenerator.py" is taken from Frederik Kratzert's [repo](https://github.com/kratzert/finetune_alexnet_with_tensorflow).
 
 In order to prepare the data files, "createDataFiles.m" script can be used.
 
