@@ -12,4 +12,4 @@ The general process is the following:
 
 The loss graphs of train and validation sets can be observed from TensorBoard.
 
-For the experimental results, the details of the implementation and further information, you can read [this paper](https://ozgeyalcinkaya.com/wp-content/uploads/2017/11/Training-CNNs-with-Noisy-Data.pdf?189db0&189db0).
+For the experimental results, the details of the implementation and further information, you can read [here](https://github.com/ozgyal/Noise-Layer-Implemantation-on-AlexNet/blob/master/Training-CNNs-with-Noisy-Data.pdf).
